@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,vite,nodejs,express,html,css,mysql,docker,git,github,cloudinary,python,tailwindcss," />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,vite,nodejs,express,html,css,mysql,docker,git,github,python,tailwindcss,postman,kaggle,bootstrap" />
 </p>
 
 ---
@@ -26,6 +26,12 @@
 
 ---
 
+### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazlur4471&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+--- 
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/fazlur-rehman4471" target="https://www.linkedin.com/in/fazlur-rehman-137933211/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
