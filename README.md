@@ -8,13 +8,12 @@
 - 🧑‍💻 Skilled in building **full-stack web apps** with modern technologies
 - 💬 Ask me about **Node.js, Express.js, SQL, Docker, React, Redux**
 - 📫 Reach me at **slmfazlur@gmail.com**
-- ⚡ Fun fact: *I enjoy turning coffee ☕ into clean code*
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,vite,nodejs,express,html,css,mysql,docker,git,github,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,vite,nodejs,express,html,css,mysql,docker,git,github,cloudinary,python,tailwindcss," />
 </p>
 
 ---
@@ -29,6 +28,6 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/fazlur-rehman4471" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/fazlur-rehman4471" target="https://www.linkedin.com/in/fazlur-rehman-137933211/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:slmfazlur@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
